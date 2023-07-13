@@ -1,0 +1,1 @@
+Outras partes da aplicação irão usar o schema de endereço. Separe o schema em um arquivo separado.

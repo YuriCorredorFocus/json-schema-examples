@@ -1,0 +1,5 @@
+O schema deveria ter um endereço. O endereço será obrigatório.
+
+streetAddress: string (obrigatório)
+country: string (obrigatório)
+state: string (opcional)
