@@ -1,0 +1,18 @@
+{
+  "$id": "https://example.com/schemas/address",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+
+  "type": "object",
+  "properties": {
+    "streetAddress": {
+      "type": "string"
+    },
+    "state": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    }
+  },
+  "required": ["streetAddress", "country"]
+}
